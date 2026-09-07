@@ -23,9 +23,9 @@ Agosto - Diciembre 2026
 
 ## Unidades
 
-1. [Unidad 1 - Introducción a la Programación Estructurada](/unidad1/pseudocodigo_04_10)
-2. [Unidad 2 - Variables, Tipos de Datos y Operadores](unidad2.md)
-3. [Unidad 3 - Estructuras de Control](unidad3.md)
-4. [Unidad 4 - Funciones y Modularidad](unidad4.md)
-5. [Unidad 5 - Arreglos y Estructuras de Datos](unidad5.md)
-6. [Unidad 6 - Manejo de Archivos y Proyecto Final](unidad6.md)
+1. [Unidad 1 - Introducción a la Programación Estructurada](./unidad1/)
+2. [Unidad 2 - Variables, Tipos de Datos y Operadores](./unidad2/)
+3. [Unidad 3 - Estructuras de Control](./unidad3/)
+4. [Unidad 4 - Funciones y Modularidad](./unidad4/)
+5. [Unidad 5 - Arreglos y Estructuras de Datos](./unidad5/)
+6. [Unidad 6 - Manejo de Archivos y Proyecto Final](./unidad6/)

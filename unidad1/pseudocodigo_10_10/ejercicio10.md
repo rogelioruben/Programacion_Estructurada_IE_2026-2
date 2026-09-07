@@ -1,3 +1,4 @@
+'Enunciado: desarrolla la logica para un modulo inyector de faltas que reciba una señal digital de control y devuelva la señal invertida para pruebas de laboratorio'
 inicio
 mesaje de salida "ingresa una señal digital de control: 1 (alto) o (bajo)"
 alamacena el dato en la variable "señal"
