@@ -14,7 +14,7 @@ int main () {
     printf("Ingrese su apellido materno: ");
     scanf("%s", apellido2);
 
-    printf("HOLA %s %s %s %s\n", nombre1, nombre2, apellido1, apellido2);
+    printf("hola, bienvenido %s %s %s %s\n", nombre1, nombre2, apellido1, apellido2);
 
 
     return 0;

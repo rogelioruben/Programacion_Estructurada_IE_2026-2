@@ -16,6 +16,7 @@ int main() {
 
     parte = herencia / hijos;
     printf("\nLa cantidad de herencia que corresponde a cada uno es de $%d\n", parte);
-
+parte=herencia%hijos;
+printf("y la cantidad de herencia que sobra es de $%d\n", parte);
     return 0;
 }   
