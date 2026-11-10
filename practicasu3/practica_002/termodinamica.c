@@ -8,7 +8,8 @@ scanf("%d", &n);
 if (n<=0){
     printf("El numero de mediciones debe ser mayor a 0\n");
     return 1;
- float mediciones[n];
+}
+float mediciones[n];
 
  printf("\n entrada de datos \n");
  for (int i=0; i<n; i++){
@@ -16,8 +17,8 @@ if (n<=0){
     scanf("%f", &mediciones[i]);
  }
 
- float maximo = temperatura[0];
- float mimimo = temperatura[0];
+ float maximo = mediciones[0];
+ float minimo = mediciones[0];
  for (int i=0; i<n; i++){
     if (mediciones[i]>maximo){
         maximo=mediciones[i];
@@ -32,3 +33,4 @@ if (n<=0){
  
 return 0;
 }
+
